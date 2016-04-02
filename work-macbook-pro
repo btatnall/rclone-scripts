@@ -1,0 +1,2 @@
+rclone sync '/Users/btatnall/Pictures/iPhoto Library.photolibrary/Masters' 'clouddrive:Pictures/work-macbookpro-iPhoto' --bwlimit 10M --include '*.{JPG,jpg,PNG,png}' -v
+rclone sync '/Users/btatnall/Pictures/Photos Library.photoslibrary/Masters' 'clouddrive:Pictures/work-macbookpro-Photos' --bwlimit 10M --include '*.{JPG,jpg,PNG,png}' -v
