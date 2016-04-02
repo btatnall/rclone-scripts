@@ -1,2 +1,2 @@
-rclone sync '/Users/bt/Pictures/iPhoto Library.migratedphotolibrary/Masters' 'clouddrive:Pictures/home-macbookpro-iPhoto' --bwlimit 10M --include '*.{JPG,jpg,PNG,png}'
-rclone sync '/Users/bt/Pictures/Photos Library.photoslibrary/Masters' 'clouddrive:Pictures/home-macbookpro-Photos' --bwlimit 10M --include '*.{JPG,jpg,PNG,png}'
+rclone sync '/Users/bt/Pictures/iPhoto Library.migratedphotolibrary/Masters' 'clouddrive:Pictures/home-macbookpro-iPhoto' --bwlimit 2M --include '*.{JPG,jpg,PNG,png}'
+rclone sync '/Users/bt/Pictures/Photos Library.photoslibrary/Masters' 'clouddrive:Pictures/home-macbookpro-Photos' --bwlimit 2M --include '*.{JPG,jpg,PNG,png}'

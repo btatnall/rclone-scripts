@@ -1,1 +1,1 @@
-rclone sync '/Users/jtatnall/Pictures/iPhoto Library/Masters' 'clouddrive:Pictures/home-macbook-iPhoto' --bwlimit 10M --include '*.{JPG,jpg,PNG,png}'
+rclone sync '/Users/jtatnall/Pictures/iPhoto Library/Masters' 'clouddrive:Pictures/home-macbook-iPhoto' --bwlimit 2M --include '*.{JPG,jpg,PNG,png}'
